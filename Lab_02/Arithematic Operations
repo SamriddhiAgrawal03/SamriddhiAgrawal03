@@ -1,3 +1,5 @@
+ADDITION.c 
+
 #include <stdio.h>
 
 int main() {
@@ -14,6 +16,13 @@ int main() {
 
     return 0;
 }
+
+
+
+
+
+
+SUBTRACTION.c
 
 #include <stdio.h>
 
@@ -32,6 +41,12 @@ int main() {
     return 0;
 }
 
+
+
+
+MULTIPLICATION.c
+
+
 #include <stdio.h>
 
 int main() {
@@ -48,6 +63,11 @@ int main() {
 
     return 0;
 }
+
+
+
+DIVISION.c
+
 
 #include <stdio.h>
 
