@@ -1,1 +1,48 @@
+  //Increament
+
+#include <stdio.h>
+
+int main()
+{
+    int a = 10;
+
+    a++;
+
+    printf("Value after increment = %d", a);
+
+    return 0;
+}
+
+
+Output:-
+Value after increment = 11
+
+
+
+  //Decreament(--)
+
+
+#include <stdio.h>
+
+int main()
+{
+    int a = 10;
+
+    a--;
+
+    printf("Value after decrement = %d", a);
+
+    return 0;
+}
+
+
+Output:-
+Value after decrement = 9
+
+
+
+
+
+
+
 
