@@ -12,6 +12,9 @@ int main()
 }
 
 
+
+
+
   //Bitwise OR
 
 #include <stdio.h>
@@ -24,6 +27,8 @@ int main()
 
     return 0;
 }
+
+
 
 
   //Bitwise XOR
@@ -40,6 +45,8 @@ int main()
 }
 
 
+
+
   //Bitwise NOT
 
 #include <stdio.h>
@@ -54,6 +61,8 @@ int main()
 }
 
 
+
+
   //Bitwise LEFT SHIFT
 
 #include <stdio.h>
@@ -66,6 +75,8 @@ int main()
 
     return 0;
 }
+
+
 
 
   //Bitwise RIGHT SHIFT
