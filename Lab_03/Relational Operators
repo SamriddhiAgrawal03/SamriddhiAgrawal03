@@ -1,1 +1,83 @@
+  //Greater than
+
+#include <stdio.h>
+
+int main()
+{
+    int a = 10, b = 5;
+
+    printf("%d", a > b);
+
+    return 0;
+}
+
+
+   //Less than
+
+#include <stdio.h>
+
+int main()
+{
+    int a = 10, b = 5;
+
+    printf("%d", a < b);
+
+    return 0;
+}
+
+
+  //Greater than or equal to
+
+#include <stdio.h>
+
+int main()
+{
+    int a = 10, b = 5;
+
+    printf("%d", a >= b);
+
+    return 0;
+}
+
+
+  Less than or equal to
+
+#include <stdio.h>
+
+int main()
+{
+    int a = 10, b = 5;
+
+    printf("%d", a <= b);
+
+    return 0;
+}
+
+
+  //Equal to
+
+#include <stdio.h>
+
+int main()
+{
+    int a = 10, b = 10;
+
+    printf("%d", a == b);
+
+    return 0;
+}
+
+
+  //Not equal to
+
+#include <stdio.h>
+
+int main()
+{
+    int a = 10, b = 5;
+
+    printf("%d", a != b);
+
+    return 0;
+}
 
