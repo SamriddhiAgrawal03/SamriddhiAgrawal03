@@ -1,0 +1,42 @@
+  //Logical AND
+
+#include <stdio.h>
+
+int main()
+{
+    int a = 10, b = 5;
+
+    printf("%d", a > 0 && b > 0);
+
+    return 0;
+}
+
+
+  //Logical OR
+
+#include <stdio.h>
+
+int main()
+{
+    int a = 10, b = -5;
+
+    printf("%d", a > 0 || b > 0);
+
+    return 0;
+}
+
+
+  //Logical NOT
+
+#include <stdio.h>
+
+int a = 10;
+
+int main()
+{
+    printf("%d", !(a > 0));
+
+    return 0;
+}
+
+
