@@ -12,6 +12,8 @@ int main()
 }
 
 
+
+
   //Logical OR
 
 #include <stdio.h>
@@ -24,6 +26,8 @@ int main()
 
     return 0;
 }
+
+
 
 
   //Logical NOT
